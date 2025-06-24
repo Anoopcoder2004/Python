@@ -1,0 +1,10 @@
+a=("hi, how are you?")
+print(a[5])
+print(a[0:-1:2])
+print(a[0])
+print(a[0:9])
+print(a[-1:-8:-1])
+pal=input("Enter a string")
+rev=pal[::-1]
+print("reverse is "+rev)
+values.append()
